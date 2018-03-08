@@ -34,5 +34,5 @@
 
 
 <cfoutput>
-	<code>#SerializeJSON(rc.results)#</code>
+	<code id="result">#SerializeJSON(rc.results)#</code>
 </cfoutput>

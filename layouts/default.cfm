@@ -23,6 +23,16 @@
 
 	<div class="container">
 
+		<div class="jumbotron">
+			<h1 class="display-4">Text Extractor!</h1>
+			<p class="lead">This is a simple text extractor. It can do csv, tsv, pipes, and fixed. Give it a try.</p>
+			<hr>
+			<p>It uses cfc for file processing. Built on ColdFusion 2016.</p>
+			<p class="lead">
+				<a class="btn btn-primary btn-lg" href="https://github.com/jmohler1970/TextExtract" role="button">Learn more</a>
+			</p>
+		</div>
+
 		<cfoutput>#body#</cfoutput>
 
 	</div>
