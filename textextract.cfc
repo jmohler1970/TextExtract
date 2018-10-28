@@ -1,10 +1,3 @@
-<cfscript>
-/**
- * textextract.cfc
- *
- * @author James Mohler
- * @date Mar 7, 2018
- **/
 component output="false"  {
 
 variables.delimiter = "";
@@ -67,5 +60,3 @@ array function getNextLineTokens() output="false"	{
 	}
 
 }
-
-</cfscript>

@@ -1,4 +1,6 @@
+# Introduction
 
+This pulls in delimited text files
 
 # Installation
 
@@ -28,14 +30,3 @@ If the fileToProcess is successfully loaded, true is returned. Else false.
 
 Lines in the text file are consumed one by one and an array is returned.
 
-# Testing
-
-Testing with SeleniumIDE can be done by opening `tests/basic.test.html`.
-
-# 3rd Party Tools
-
-- jQuery
-- Bootstrap
-- Bootswatch
-- FW/1
-- SeleniumIDE
